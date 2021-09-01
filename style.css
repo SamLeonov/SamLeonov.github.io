@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+}
+#intro{
+    text-align:center;
+    
+    font:bold;
+}
+#links{
+  text-align: left;
+  font:bolder;
+  font-size:larger;
+  
+}
+a{
+    color:crimson;
+}
